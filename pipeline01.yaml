@@ -1,4 +1,3 @@
-job: myJob
 pool:
   vmImage: 'ubuntu-16.04'
 steps:
